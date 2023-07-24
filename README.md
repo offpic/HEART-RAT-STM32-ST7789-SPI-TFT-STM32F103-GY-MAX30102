@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=JSRieVoE13s
 <img width="335" alt="Screenshot_5" src="https://github.com/offpic/HEART-RAT-STM32-ST7789-SPI-TFT-STM32F103-GY-MAX30102/assets/31142397/d4897a8e-5029-4e11-bcad-11c2beaa3485">
 
 ![b3ckla](https://github.com/offpic/HEART-RAT-STM32-ST7789-SPI-TFT-STM32F103-GY-MAX30102/assets/31142397/40d24d3b-52c9-444e-971e-5cd1268a9787)
+
+
+THANK YOU https://github.com/offpic/HEART-RAT-S... FOR CODE
