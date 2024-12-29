@@ -1,4 +1,4 @@
-# HEART-RAT-STM32-ST7789-SPI-TFT-STM32F103-GY-MAX30102 RCG
+# HEART-RAT-STM32-ST7789-SPI-TFT-STM32F103-GY-MAX30102 ECG
 HEART RAT STM32 ST7789 SPI TFT STM32F103 GY-MAX30102 I2C
 
 https://www.youtube.com/watch?v=JSRieVoE13s
@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=JSRieVoE13s
 
 
 THANK YOU https://github.com/miniwinwm/BluePillDemo/tree/master/BluePillDemo_I2C_MAX30102_Pulse_Oximeter_LCD FOR CODE
+
+to do it:
+
+MAX30102 with big display
